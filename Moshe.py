@@ -1,9 +1,9 @@
-def printFunnyStory():
+def Story():
     print("haha")
     print("yonyon the King")
 
 def printHelloe():
     print("Hello world")
 
-print(printFunnyStory())
+print(Story())
 print(printHelloe())
